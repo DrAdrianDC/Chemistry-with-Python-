@@ -12,6 +12,6 @@ Python has become a powerful tool in the field of chemistry due to its versatili
 
 ## License
 
-This repository is licensed under the terms of the **MIT License** (See LICENSE.txt)
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
